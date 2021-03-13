@@ -1,4 +1,4 @@
-### Synology SMS to Telegram notifications:
+### Synology Telegram notifications:
 
 1. In **`Control Panel -> Notifications -> Email, SMS, Push Service`**
  check **`SMS`** checkbox
