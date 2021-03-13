@@ -3,7 +3,7 @@ Synology SMS to Telegram notifications:
 1. In **`Control Panel -> Notifications -> Email, SMS, Push Service`**
  check **`SMS`** checkbox
 2. Setup Telegram bot (if you have not), use BotFather chatbot. 
-3. Using `@MissRose_bot`to  get your chat ID typing `/id`
+3. Use `@MissRose_bot`to get your chat ID typing `/id` to chat
 4. in **`Control Panel -> Notifications -> SMS`** click **Add SMS service provider** and type:
 
 	**Provider name**: Telegram 
