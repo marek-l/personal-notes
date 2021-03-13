@@ -11,9 +11,11 @@ Synology SMS to Telegram notifications:
 	**SMS URL:** `https://api.telegram.org/botBOT_TOKEN/sendMessage?chat_id=CHAT_ID&text=Hello+world&user=User&password=Password&to=12345678`
 5. Choose HTTP GET method and click Next and Next
 6. Set following params:
-	```chat_id: Other
+	```
+	chat_id: Other
 	text: Message content
 	user: Username
 	password: Password
-	to: Phone number```
+	to: Phone number
+	```
 7. Apply
