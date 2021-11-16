@@ -54,5 +54,5 @@ Restart=always
 
 [Install]
 WantedBy=multi-user.target
-sudo systemctl enable ser2net.service
 ```
+`sudo systemctl enable ser2net.service`
